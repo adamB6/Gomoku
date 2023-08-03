@@ -1,0 +1,15 @@
+C:\Users\asbot\Desktop\School\Computer Science\OOP\assignment3\botensAssign3\Gomoku\Gomoku\bin\Debug\net6.0\Gomoku.exe
+C:\Users\asbot\Desktop\School\Computer Science\OOP\assignment3\botensAssign3\Gomoku\Gomoku\bin\Debug\net6.0\Gomoku.deps.json
+C:\Users\asbot\Desktop\School\Computer Science\OOP\assignment3\botensAssign3\Gomoku\Gomoku\bin\Debug\net6.0\Gomoku.runtimeconfig.json
+C:\Users\asbot\Desktop\School\Computer Science\OOP\assignment3\botensAssign3\Gomoku\Gomoku\bin\Debug\net6.0\Gomoku.dll
+C:\Users\asbot\Desktop\School\Computer Science\OOP\assignment3\botensAssign3\Gomoku\Gomoku\bin\Debug\net6.0\Gomoku.pdb
+C:\Users\asbot\Desktop\School\Computer Science\OOP\assignment3\botensAssign3\Gomoku\Gomoku\obj\Debug\net6.0\Gomoku.csproj.AssemblyReference.cache
+C:\Users\asbot\Desktop\School\Computer Science\OOP\assignment3\botensAssign3\Gomoku\Gomoku\obj\Debug\net6.0\Gomoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asbot\Desktop\School\Computer Science\OOP\assignment3\botensAssign3\Gomoku\Gomoku\obj\Debug\net6.0\Gomoku.AssemblyInfoInputs.cache
+C:\Users\asbot\Desktop\School\Computer Science\OOP\assignment3\botensAssign3\Gomoku\Gomoku\obj\Debug\net6.0\Gomoku.AssemblyInfo.cs
+C:\Users\asbot\Desktop\School\Computer Science\OOP\assignment3\botensAssign3\Gomoku\Gomoku\obj\Debug\net6.0\Gomoku.csproj.CoreCompileInputs.cache
+C:\Users\asbot\Desktop\School\Computer Science\OOP\assignment3\botensAssign3\Gomoku\Gomoku\obj\Debug\net6.0\Gomoku.dll
+C:\Users\asbot\Desktop\School\Computer Science\OOP\assignment3\botensAssign3\Gomoku\Gomoku\obj\Debug\net6.0\refint\Gomoku.dll
+C:\Users\asbot\Desktop\School\Computer Science\OOP\assignment3\botensAssign3\Gomoku\Gomoku\obj\Debug\net6.0\Gomoku.pdb
+C:\Users\asbot\Desktop\School\Computer Science\OOP\assignment3\botensAssign3\Gomoku\Gomoku\obj\Debug\net6.0\Gomoku.genruntimeconfig.cache
+C:\Users\asbot\Desktop\School\Computer Science\OOP\assignment3\botensAssign3\Gomoku\Gomoku\obj\Debug\net6.0\ref\Gomoku.dll
